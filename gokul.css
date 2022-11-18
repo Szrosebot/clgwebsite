@@ -1,7 +1,7 @@
 ﻿body {
     background-image:url('gokul.png');
     background-repeat:no-repeat;
-    background-attachment:top;
+    background-attachment:middle;
     background-position:center;
     position: absolute;
     height: 100%;
